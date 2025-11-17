@@ -43,7 +43,7 @@ This project includes a modular structure, database support, middleware, logging
 1.  **Clone the repository**
 
     ```sh
-    git clone [https://github.com/safi-io/fastapi-starter-kit.git](https://github.com/safi-io/fastapi-starter-kit.git)
+    git clone https://github.com/safi-io/fastapi-starter-kit.git
     cd fastapi-starter-kit
     ```
 
@@ -150,3 +150,4 @@ You can add custom middlewares in `app/core/` as needed.
 
 * LinkedIn: [@safi-io](https://www.linkedin.com/in/safi-io/)
 * GitHub: [@safi-io](https://github.com/safi-io)
+
